@@ -1,2 +1,1 @@
-# safeguar
-Sistema de informacion para el Seguimiento del resumen ejecutivo de la contaloria Bolivareano del estado Guarico
+# Sistema De Información Para El Seguimiento Del Resumen Ejecutivo De La Contraloría Bolivariana Del Estado Guárico
